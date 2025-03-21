@@ -6,7 +6,7 @@ Hi, I'm Drasti Shah, a passionate student currently pursuing my **Bachelor's in 
 ## 💡 Interests & Skills
 - 🔐 Cyber Security & Ethical Hacking
 - 🌍 Web Development (HTML, CSS, JavaScript)
-- 💻 Programming (Node.js, Java, C)
+- 💻 Programming (Java, C)
 - 🛠️ Exploring Vulnerabilities & Threat Analysis
 
 ## 📚 Learning & Growth
